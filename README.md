@@ -1,4 +1,3 @@
-# 2D-Neutron-Diffusion-Solver
 # 2D Diffusion Solver and Comparison to 1D Diffusion
 
 This repository contains a Jupyter Notebook implementation of a **2D neutron diffusion solver** and a comparison to a **1D analytical approximation** using transverse buckling. The project models fixed boundary conditions in both dimensions and demonstrates numerical techniques for solving diffusion problems using finite difference methods.
